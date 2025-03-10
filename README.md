@@ -2,6 +2,14 @@
 
 ET (External Terminal) provides a convenient way to open your preferred external terminal with a keyboard shortcut, directly from VS Code (or Cursor). This extension opens your configured external terminal application in the current workspace directory.
 
+## Installation 📦
+
+1. Download .vsix file from this repo
+2. Open VS Code/Cursor
+3. Go to the Extensions view.
+4. Select Views and More Actions...
+5. Select Install from VSIX...
+
 ## Features 🚀
 
 This extension adds a command to open an external terminal application from your editor:
