@@ -31,3 +31,9 @@ Initial release of ET:
 
 - Added command to open external terminal (WezTerm)
 - Added keyboard shortcut (`Ctrl+Shift+C` on Linux)
+
+## Build VSIX
+
+```bash
+npx @vscode/vsce package
+```
