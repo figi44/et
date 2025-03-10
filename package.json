@@ -2,7 +2,7 @@
   "name": "et",
   "displayName": "ET",
   "description": "Open your external terminal of choice with a shortcut!",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "figi",
   "repository": {
     "type": "git",
